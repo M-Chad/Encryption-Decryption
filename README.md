@@ -21,10 +21,10 @@ An Encryption and Decryption app running multiple algorithms. I used the "strate
 -alg  : your choice of algorithm, either a Ceaser cypher(shift) or Unicode encryption(uni).
 
 Example:
-input:
 
+
+input:
 java Main -mode enc -key 5 -data "Welcome to my app!" -alg shift
 
 output:
-
 Bjqhtrj yt rd fuu
