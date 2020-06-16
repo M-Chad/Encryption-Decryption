@@ -24,7 +24,7 @@ Example:
 
 
 input:
-java Main -mode enc -key 5 -data "Welcome to my app!" -alg shift
+     java Main -mode enc -key 5 -data "Welcome to my app!" -alg shift
 
 output:
 Bjqhtrj yt rd fuu
